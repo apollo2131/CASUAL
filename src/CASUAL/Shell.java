@@ -40,7 +40,7 @@ public class Shell implements Runnable{
         Log log = new Log();
       //Send a command to the shell
 
-        
+           
  public String elevateSimpleCommand(String[] cmd){
       String[] newCmd;
       
