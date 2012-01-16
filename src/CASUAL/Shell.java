@@ -28,7 +28,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author adam
+ * @author adam 
  */
 //define <output and input> to this abstract class
 public class Shell implements Runnable{
@@ -37,16 +37,7 @@ public class Shell implements Runnable{
     public Shell() {}
     
     //for external access
-
-
-
-    
-
-    
         Log log = new Log();
-
-
-
       //Send a command to the shell
 
         
