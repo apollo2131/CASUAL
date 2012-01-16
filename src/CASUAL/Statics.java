@@ -100,6 +100,7 @@ public class Statics {
     public static String OSName=System.getProperty("os.name");
     public static String  OSType=""; //used for logging
     public static String  Arch="";
+    public static String WinElevatorInTempFolder;
     final  public static String CASUALSCRIPT="/CASUAL/SCRIPT/";
     final public static String WinADB="/CASUAL/adb.exe";
     final public static String LinuxADB="/CASUAL/adblinux.exe";
